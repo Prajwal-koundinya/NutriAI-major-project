@@ -419,21 +419,21 @@ There is a critical need for a **mobile-centered, AI-powered solution** that can
 <div align="center"> 
 
 ### Login Screen
-<img src="[https://github.com/Prajwal-koundinya/NutriAI-major-project/tree/main/img 1.jpeg" alt="" width="714"/>
+<img src="https://raw.githubusercontent.com/Prajwal-koundinya/NutriAI-major-project/main/frontend/img%202.jpeg" alt="Onbarding/Login Screen" width="250"/>
 
 *Clean authentication interface with email/password login and sign-up option*
 
 ---
 
 ### Dashboard
-<img src="https://raw.githubusercontent.com/Prajwal-koundinya/NutriAI-major-project/main/screenshots/dashboard.png" alt="Dashboard" width="250"/>
+<img src="https://raw.githubusercontent.com/Prajwal-koundinya/NutriAI-major-project/main/frontend/img%201.jpeg" alt="Dashboard - Home Screen" width="250"/>
 
 *Personalized greeting with daily calorie tracking, macronutrient breakdown, and quick meal scanning*
 
 ---
 
 ### Weekly Insights
-<img src="https://raw.githubusercontent.com/Prajwal-koundinya/NutriAI-major-project/main/screenshots/insights.png" alt="Weekly Insights" width="250"/>
+<img src="https://raw.githubusercontent.com/Prajwal-koundinya/NutriAI-major-project/main/frontend/img%203.jpeg" alt="Analysis statistics" width="250"/>
 
 *Track your nutrition trends with weekly calorie and protein charts, plus health recommendations*
 
