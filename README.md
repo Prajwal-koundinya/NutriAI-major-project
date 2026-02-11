@@ -416,10 +416,10 @@ There is a critical need for a **mobile-centered, AI-powered solution** that can
 
 ## 📱 Screenshots
 
-<div align="center">
+<div align="center"> 
 
 ### Login Screen
-<img src="https://raw.githubusercontent.com/Prajwal-koundinya/NutriAI-major-project/main/screenshots/login.png" alt="Login Screen" width="250"/>
+<img src="[https://github.com/Prajwal-koundinya/NutriAI-major-project/tree/main/img 1.jpeg" alt="" width="714"/>
 
 *Clean authentication interface with email/password login and sign-up option*
 
