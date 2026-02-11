@@ -381,7 +381,7 @@ There is a critical need for a **mobile-centered, AI-powered solution** that can
 - However, premature microservices increase complexity by 50% in early-stage products
 - Hybrid approach reduces initial development time by 40% while preserving future flexibility
 
-### 5. Test-Driven Development (TDD) 🧪
+### 5. Test-Driven Development 🧪
 
 **Testing Pyramid:**
 
