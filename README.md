@@ -440,7 +440,6 @@ There is a critical need for a **mobile-centered, AI-powered solution** that can
 - **Node.js** (v18 or higher)
 - **npm** or **yarn**
 - **Expo CLI** (`npm install -g expo-cli`)
-- **Android Studio** (for Android) or **Xcode** (for iOS)
 - **Python** 3.9+ (for backend ML services)
 
 ### Mobile Application Setup
