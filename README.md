@@ -207,14 +207,6 @@ There is a critical need for a **mobile-centered, AI-powered solution** that can
 - **Food Detection**: Custom CNN + Transfer Learning
 - **Portion Estimation**: Regression models + heuristics
 
-#### DevOps & Infrastructure
-- **Containerization**: Docker
-- **Orchestration**: Kubernetes / Docker Compose
-- **CI/CD**: GitHub Actions
-- **Monitoring**: Prometheus + Grafana
-- **Logging**: ELK Stack (Elasticsearch, Logstash, Kibana)
-- **Cloud**: AWS / Google Cloud Platform
-
 ---
 
 ## 🔧 Software Engineering Methodologies
