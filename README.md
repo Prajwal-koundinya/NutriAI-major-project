@@ -500,17 +500,6 @@ cp .env.example .env
 # Start the backend server
 python app.py
 ```
-
-### Database Setup
-
-```bash
-# MongoDB (recommended)
-# Install MongoDB and start the service
-
-# Or use Docker
-docker run -d -p 27017:27017 --name nutritrack-db mongo:latest
-```
-
 ---
 
 ## 💻 Usage
